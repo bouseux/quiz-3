@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Who is the Prime Minister of the United Kingdom?",
+        "choices": [
+            "David Cameron",
+            "Gordon Brown",
+            "Winston Churchill",
+            "Tony Blair"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the best rapper alive?",
+        "choices": [
+            "Biggie",
+            "Jay-Z",
+            "Nas",
+            "Drake"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the capital of Ukraine?",
+        "choices": [
+            "Azerbaijan",
+            "Astana",
+            "Bucharest",
+            "Kiev"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the 1800s, which mammal was thought to have also been born from a plant?",
+        "choices": [
+            "Lions",
+            "Sheep",
+            "Sloths",
+            "Platypus"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Name one of the two muppets that hosted Sesame Street's original pitch reel.",
+        "choices": [
+            "Grover",
+            "Swedish Chef",
+            "Rowlf the Dog",
+            "Kermit"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "After Aretha Franklin and Madonna, who is the only other woman to chart over 40 Top 40 hits?",
+        "choices": [
+            "Cher",
+            "Dolly Parton",
+            "Celine Dion",
+            "Taylor Swift"
+        ],
+        "correctAnswer": 3
+    }
+]
