@@ -81,7 +81,7 @@ var Quiz = {
 
     }
     else{
-      alert("ANSWER ME WHORE");
+      alert("ANSWER ME NOW");
     }
   },
   
